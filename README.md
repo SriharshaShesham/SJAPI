@@ -1,2 +1,2 @@
 # NSPS
-Non Server SharePoint Snippets
+Welcome to Srichakram Non Server SharePoint Snippets
