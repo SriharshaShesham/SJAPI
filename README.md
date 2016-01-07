@@ -1,2 +1,3 @@
 # Srichakram Non Server SharePoint Snippets (NSPS)
-Welcome to Srichakram Non Server SharePoint Snippets
+
+Please stay tuned, This library will be available soon
