@@ -1,4 +1,4 @@
-# Welcome to SharePoint Javascript/JQuery Snippets (SPJS)
+# Welcome to Srichakram SharePoint Javascript/JQuery Snippets (SSPJS)
 
 SPJS is an opensource library to help SharePoint 2013 front end developers to implement beautiful interfaces with the out of box sharepoint controls, javascript and bootstrap. "Bootstrap!!!! OMG this would conflict with SharePoint structure", I know this is most of us think when we first start. But, you don't have to change any master pages to use this library. The bootstrap in this library is limited to that one particular page where it is used. 
 
