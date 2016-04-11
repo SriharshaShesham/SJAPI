@@ -1,23 +1,23 @@
-# Welcome to Srichakram SharePoint Javascript/JQuery Snippets (SSPJS)
+# Welcome to Srichakram SharePoint JavaScript Snippets (SSJSS)
 
-SPJS is an opensource library to help SharePoint 2013 front end developers to implement beautiful interfaces with the out of box sharepoint controls, javascript and bootstrap. "Bootstrap!!!! OMG this would conflict with SharePoint structure", I know this is most of us think when we first start. But, you don't have to change any master pages to use this library. The bootstrap in this library is limited to that one particular page where it is used. 
+SSJSS is an opensource library to help SharePoint 2013 front end developers to implement beautiful interfaces with the out of box sharepoint controls, javascript and bootstrap. "Bootstrap!!!! OMG this would conflict with SharePoint structure", I know this is most of us think when we first start. But, you don't have to change any master pages to use this library. The bootstrap in this library is limited to that one particular page where it is used. 
 
-##Here is what you can do with the SPJS library:
+##Here is what you can do with the SSJSS library:
 
 ###1. Easy to use Quick Launch and Main Navigation Menu
 
 These are the professional and less themed navigation menus for your site. These can either be deployed on each and single page in a content editor, or can be deployed in a site collection using PNP powershell(You dont need access to SharePoint server. Site collection Admin rights are good).
 
 ###2. Beautiful Bar and Pie charts
-With the unavailability of the chart webpart in SharePoint 2013, it has become a challenge to implement a dashboard. SPJS is integrated with an open source JQPlot library(not in total, but limited to Bar and Pie charts), which makes it easier to implement the customizable charts on your pages. 
+With the unavailability of the chart webpart in SharePoint 2013, it has become a challenge to implement a dashboard. SSJSS is integrated with an open source JQPlot library(not in total, but limited to Bar and Pie charts), which makes it easier to implement the customizable charts on your pages. 
 
 ###3. Webpart Tabs
-When you want to display multiple lists information on a single page, Webpart Tabs is your best option. With webpart tabs you will be able to structure your data by tabs. All you have to do is add any number of webparts on your page, and initialize SPJS webpart function in anywhere on the page.
+When you want to display multiple lists information on a single page, Webpart Tabs is your best option. With webpart tabs you will be able to structure your data by tabs. All you have to do is add any number of webparts on your page, and initialize SSJSS webpart function in anywhere on the page.
 
 
 ###4. Tabs for Infopath
 
-This is something interesting, Isn't it. Yes with SPJS you can work with your infopath and beautify it with structuring it with the tabs. This allows you to design very large forms, but display them in tabs which reduces the complexity of scrolling. 
+This is something interesting, Isn't it. Yes with SSJSS you can work with your infopath and beautify it with structuring it with the tabs. This allows you to design very large forms, but display them in tabs which reduces the complexity of scrolling. 
 
 
 
