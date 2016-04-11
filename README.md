@@ -12,7 +12,7 @@ These are the professional and less themed navigation menus for your site. These
 With the unavailability of the chart webpart in SharePoint 2013, it has become a challenge to implement a dashboard. SSJSS is integrated with an open source JQPlot library(not in total, but limited to Bar and Pie charts), which makes it easier to implement the customizable charts on your pages. 
 
 ###3. Webpart Tabs
-When you want to display multiple lists information on a single page, Webpart Tabs is your best option. With webpart tabs you will be able to structure your data by tabs. All you have to do is add any number of webparts on your page, and initialize SSJSS webpart function in anywhere on the page.
+When you want to display multiple lists information on a single page, Webpart Tabs is your best option. With webpart tabs you will be able to structure your data by tabs. All you have to do is add any number of webparts on your page, and initialize SSJSS webpart function anywhere on the page.
 
 
 ###4. Tabs for Infopath
