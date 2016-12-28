@@ -18,10 +18,14 @@ With the unavailability of the chart webpart in SharePoint 2013, it has become a
 
 ###3. Webpart Tabs
 When you want to display multiple lists information on a single page, Webpart Tabs is your best option. With webpart tabs you will be able to structure your data by tabs. All you have to do is add any number of webparts on your page, and initialize SJAPI webpart function anywhere on the page.
-<img scr="https://raw.githubusercontent.com/Srichakram/SJAPI/master/Webpart%20Tabs/Capture.PNG" height="400px">
+
+<!-- ![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Webpart%20Tabs/Capture.PNG?raw=true) -->
+<img src="https://raw.githubusercontent.com/Srichakram/SJAPI/master/Webpart%20Tabs/Capture.PNG" height="400px">
+
 
 ###4. Boxed View
 Time to stop the old way of displaying items in a tabular form. And now we don't have to write tons of code to get the list itmes and display them beautifully to the users. With SJAPI you can display the list items in boxes as shown in the image below. 
+
 <img src="https://raw.githubusercontent.com/Srichakram/SJAPI/master/Boxed%20List%20View/Capture.PNG" height="400px">
  
 
