@@ -4,20 +4,24 @@ SJAPI is an opensource library to help SharePoint 2013 front end developers to i
 
 ##Here is what you can do with the SJAPI library:
 
-###1. Easy to use Quick Launch and Main Navigation Menu
+###1. Easy to use Quick Launch Navigation Menu
 
 These are the professional and less themed navigation menus for your site. These can either be deployed on each and single page in a content editor, or can be deployed in a site collection using PNP powershell(You dont need access to SharePoint server. Site collection Admin rights are good).
+![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Navigation/Capture.PNG?raw=true)
 
 ###2. Beautiful Bar and Pie charts
 With the unavailability of the chart webpart in SharePoint 2013, it has become a challenge to implement a dashboard. SJAPI is integrated with an open source JQPlot library(not in total, but limited to Bar and Pie charts), which makes it easier to implement the customizable charts on your pages. 
+![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Graphs/Capture1.PNG?raw=true)
+![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Graphs/Capture2.PNG?raw=true)
 
 ###3. Webpart Tabs
 When you want to display multiple lists information on a single page, Webpart Tabs is your best option. With webpart tabs you will be able to structure your data by tabs. All you have to do is add any number of webparts on your page, and initialize SJAPI webpart function anywhere on the page.
+![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Webpart%20Tabs/Capture.PNG?raw=true)
 
-
-###4. Tabs for Infopath
-
-This is something interesting, Isn't it. Yes with SJAPI you can work with your infopath and beautify it with structuring it with the tabs. This allows you to design very large forms, but display them in tabs which reduces the complexity of scrolling. 
+###4. Boxed View
+Time to stop the old way of displaying items in a tabular form. And now we don't have to write tons of code to get the list itmes and display them beautifully to the users. With SJAPI you can display the list items in boxes as shown in the image below. 
+![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Boxed%20List%20View/Capture.PNG?raw=true)
+ 
 
 
 
