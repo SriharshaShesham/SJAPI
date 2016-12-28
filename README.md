@@ -21,7 +21,11 @@ This is something interesting, Isn't it. Yes with SJAPI you can work with your i
 
 
 
-##Wiki
+##Demo
+Here is my Office365 site that demonstrates the SJAPI-SharePoint library: 
+Site: https://srichakram.sharepoint.com/sites/Sjapi/ 
+      UserName: testuser@srichakram.in 
+      Password: Test4321!
 
 
 Found a bug?
