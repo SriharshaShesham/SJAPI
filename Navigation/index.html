@@ -1,10 +1,38 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-	<meta charset="utf-8" />
-</head>
-<body>
+<script src="https://srichakram.sharepoint.com/sites/SJAPI/ScriptsNStyles/Scripts/SJAPI.js" type="text/javascript"></script>
+<script src="https://srichakram.sharepoint.com/sites/SJAPI/ScriptsNStyles/Scripts/Bootstrap/bootstrap.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="https://srichakram.sharepoint.com/sites/SJAPI/ScriptsNStyles/Styles/Bootstrap/css/bootstrap.min.css"></link>
+<link rel="stylesheet" type="text/css" href="https://srichakram.sharepoint.com/sites/SJAPI/ScriptsNStyles/Styles/Bootstrap/css/bootstrap-theme.min.css"></link>
 
-</body>
-</html>
+<script>
+    //Function to wait for the jQuery to load
+function loadJQuery()
+{
+    var waitForLoad = function () 
+    {
+        if (typeof jQuery != "undefined") 
+        {
+            //console.log("jquery loaded first..");
+            // invoke any methods defined in your JS files to begin execution  
+            if( jQuery.fn.jquery == '1.4.2' ) 
+            {
+                jQuery.noConflict(true);
+            }
+            runAfterJQueryLoad();
+        } 
+        else 
+        {
+            //console.log("jquery not loaded..");
+            window.setTimeout(waitForLoad, 500);
+        }
+    };
+    window.setTimeout(waitForLoad, 500);   
+}
+
+window.onload = loadJQuery;
+
+
+    function runAfterJQueryLoad()
+    {
+        SJAPI.loadQuickLanchStyle();
+    };
+</script>
