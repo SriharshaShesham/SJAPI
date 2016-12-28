@@ -7,6 +7,7 @@ SJAPI is an opensource library to help SharePoint 2013 front end developers to i
 ###1. Easy to use Quick Launch Navigation Menu
 
 These are the professional and less themed navigation menus for your site. These can either be deployed on each and single page in a content editor, or can be deployed in a site collection using PNP powershell(You dont need access to SharePoint server. Site collection Admin rights are good).
+
 ![Alt text](https://raw.githubusercontent.com/Srichakram/SJAPI/master/Navigation/Capture.PNG?raw=true)
 
 ###2. Beautiful Bar and Pie charts
