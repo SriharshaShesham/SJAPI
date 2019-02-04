@@ -1,6 +1,6 @@
 ﻿
 /*
-Title: Srichakram Javascript API(SJAPI) for SharePoint.
+Title: Sriharsha Javascript API(SJAPI) for SharePoint.
  
 
 
