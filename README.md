@@ -1,4 +1,4 @@
-# Welcome to Sriharsha JavaScript API (SJAPI) for SharePoint
+# Welcome to Sriharsha JavaScript API (SJAPI) for SharePoint 2013
 
 SJAPI is an opensource library to help SharePoint 2013 front end developers to implement beautiful interfaces with the out of box sharepoint controls, javascript and bootstrap. I know what you are thinking, "Bootstrap!!!! OMG this would conflict with the SharePoint structure & branding". I know this is what most of us think, when we first start. But, you don't have to change any master pages to use this library. The bootstrap in this library is limited to that one particular page where it is used. 
 
@@ -29,13 +29,6 @@ Time to stop the old way of displaying items in a tabular form. And now we don't
 <img src="https://raw.githubusercontent.com/Srichakram/SJAPI/master/Boxed%20List%20View/Capture.PNG" height="400px">
  
 
-
-
-##Demo
-####Here is my Office365 site that demonstrates the SJAPI-SharePoint library: 
-######Site: https://srichakram.sharepoint.com/sites/Sjapi/ 
-      UserName: testuser@srichakram.in 
-      Password: Test4321!
 
 
 Found a bug?
